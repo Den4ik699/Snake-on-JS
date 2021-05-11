@@ -192,3 +192,4 @@ window.addEventListener('keydown', (event) => {
         this.direction = snake.setDirection(newDirection);
     }
 })
+//
